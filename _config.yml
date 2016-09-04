@@ -1,28 +1,25 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: "Felix Komoll"
+email: "radiosansibar@gmail.com"
+description: > # Felix Komoll, Gitarrist, Berlin Germany, Transkription, Bela Bartok, Sergei Prokofjew
+baseurl: "/felixkomoll/" # the subpath of your site, e.g. /blog/
+url: "http://www.radiosansibar.de" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
-address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
-telephone:
-copyright:
+owner: "Felix Komoll"
+email: "radiosansibar@gmail.com"
+facebook_username: "thommy2000thaler"
+#twitter_username:
+#github_username:
+#address:
+#  - line:
+#  - line:
+  # Feel free to add more lines here
+telephone: +49 179 2073245
+copyright: Thaler Promotions
 
 # API settings
-google_api_key:
+#google_api_key:
 
 # Build settings
 markdown: kramdown
